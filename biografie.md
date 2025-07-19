@@ -1,3 +1,5 @@
+[Abenteuer](abenteuer.md) [Eigenschaften](eigenschaften.txt)
+
 ### **Menelaus – Der Äonische Paladin**
 
 **Titel:** Der Unsterbliche | Schild des Lichts | Hüter des Ältesten Schwurs
