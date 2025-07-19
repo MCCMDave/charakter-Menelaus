@@ -2,6 +2,6 @@
 
 Hier werde ich Menelaus den äonischen Paladin beschreiben und seinen Lebensweg zur Verfügung stellen.
 
-[abenteuer.md](abenteuer.md)
-[biografie.md](biografie.md)
+[Abenteuer](abenteuer.md)
+[Biografie](biografie.md)
 [Eigenschaften](eigenschaften.txt)
