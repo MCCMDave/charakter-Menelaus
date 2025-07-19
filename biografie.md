@@ -1,7 +1,5 @@
 ### <span style="color:red">**Menelaus – Der Äonische Paladin**</span>
 
-<span style="color:red"> Schild des Lichts | Hüter des Ältesten Schwurs</span>
-
 **Titel:** Der Unsterbliche | Schild des Lichts | Hüter des Ältesten Schwurs
 
 **Geburtsort:** Unbekannt – außerhalb von Raum und Zeit
