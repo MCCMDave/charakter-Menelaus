@@ -1,4 +1,4 @@
-[Abenteuer](abenteuer.md) [Eigenschaften](eigenschaften.txt)
+<[Abenteuer](abenteuer.md)> <[Eigenschaften](eigenschaften.txt)>
 
 ### **Menelaus – Der Äonische Paladin**
 
