@@ -1,5 +1,7 @@
 ## charakter-Menelaus
 
-Hier möchte ich meinen fiktiven Charakter Menelaus etwas beschreiben und euch seinen Lebensweg zur Verfügung stellen.
+Hier werde ich Menelaus den äonischen Paladin beschreiben und seinen Lebensweg zur Verfügung stellen.
 
-[abenteuer.md] (abenteuer.md)
+[abenteuer.md](abenteuer.md)
+[biografie.md](biografie.md)
+[eigenschaften.txt](eigenschaften.txt)
