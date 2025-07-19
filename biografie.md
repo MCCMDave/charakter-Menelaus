@@ -1,4 +1,4 @@
-### <span style="color:red">**Menelaus – Der Äonische Paladin**</span>
+### **Menelaus – Der Äonische Paladin**
 
 **Titel:** Der Unsterbliche | Schild des Lichts | Hüter des Ältesten Schwurs
 
