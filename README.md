@@ -2,7 +2,7 @@
 
 Hier werde ich Menelaus den äonischen Paladin beschreiben und seinen Lebensweg zur Verfügung stellen.
 
-[Abenteuer](abenteuer.md)
+[Marina ist Toll](abenteuer.md)
 
 [Biografie](biografie.md)
 
